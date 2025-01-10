@@ -1905,7 +1905,7 @@ checksum = "ddc24109865250148c2e0f3d25d4f0f479571723792d3802153c60922a4fb708"
 [[package]]
 name = "iroh"
 version = "0.30.0"
-source = "git+https://github.com/n0-computer/iroh.git?branch=main#5aba17efacc348bb658310d184159b77a65df7f2"
+source = "git+https://github.com/n0-computer/iroh.git?branch=main#870c76edebe92fe06effa774c25677da43589351"
 dependencies = [
  "aead",
  "anyhow",
@@ -1985,7 +1985,7 @@ dependencies = [
 [[package]]
 name = "iroh-base"
 version = "0.30.0"
-source = "git+https://github.com/n0-computer/iroh.git?branch=main#5aba17efacc348bb658310d184159b77a65df7f2"
+source = "git+https://github.com/n0-computer/iroh.git?branch=main#870c76edebe92fe06effa774c25677da43589351"
 dependencies = [
  "curve25519-dalek",
  "data-encoding",
@@ -2060,7 +2060,7 @@ dependencies = [
 [[package]]
 name = "iroh-net-report"
 version = "0.30.0"
-source = "git+https://github.com/n0-computer/iroh.git?branch=main#5aba17efacc348bb658310d184159b77a65df7f2"
+source = "git+https://github.com/n0-computer/iroh.git?branch=main#870c76edebe92fe06effa774c25677da43589351"
 dependencies = [
  "anyhow",
  "bytes",
@@ -2137,7 +2137,7 @@ dependencies = [
 [[package]]
 name = "iroh-relay"
 version = "0.30.0"
-source = "git+https://github.com/n0-computer/iroh.git?branch=main#5aba17efacc348bb658310d184159b77a65df7f2"
+source = "git+https://github.com/n0-computer/iroh.git?branch=main#870c76edebe92fe06effa774c25677da43589351"
 dependencies = [
  "anyhow",
  "bytes",
